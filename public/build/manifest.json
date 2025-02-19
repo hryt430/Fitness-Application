@@ -1,0 +1,35 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-ytolp89v.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/calculators/calories.css": {
+    "file": "assets/calories-Drt88_vB.css",
+    "src": "resources/css/calculators/calories.css",
+    "isEntry": true
+  },
+  "resources/css/dashboard.css": {
+    "file": "assets/dashboard-HOazqOpE.css",
+    "src": "resources/css/dashboard.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-DNG880Sc.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/js/calculators/calories.ts": {
+    "file": "assets/calories-BcRvtWJ1.js",
+    "name": "calories",
+    "src": "resources/js/calculators/calories.ts",
+    "isEntry": true
+  },
+  "resources/js/dashboard/foodSearch.ts": {
+    "file": "assets/foodSearch-l0sNRNKZ.js",
+    "name": "foodSearch",
+    "src": "resources/js/dashboard/foodSearch.ts",
+    "isEntry": true
+  }
+}
